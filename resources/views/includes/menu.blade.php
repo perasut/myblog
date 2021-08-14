@@ -19,7 +19,7 @@
                 <li class="nav-item">
                     <a class="nav-link" href="{{url('service')}}">บริการ</a>
                 </li>
-                
+
                 <li class="nav-item">
                     <a class="nav-link" href="{{url('contact')}}">ติดต่อเรา</a>
                 </li>
