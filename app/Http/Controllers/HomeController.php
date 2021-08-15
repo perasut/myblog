@@ -16,7 +16,7 @@ class HomeController extends Controller
         // return 'homepage';
     }
 
-    public function about(){
+    public function about(){   
         return view('pages.about');
     }
 
